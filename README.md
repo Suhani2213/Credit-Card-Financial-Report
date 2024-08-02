@@ -29,7 +29,7 @@ Develop a comprehensive weekly dashboard for credit card operations that deliver
     - Highlights significant trends, identifies potential risks, and uncovers growth opportunities.
 ## Importing data From Postgres SQL to Power Bi
 
-As the database is Postgres SQL in this project, we need to import the datasets from the MySQL database to PowerBi by providing the Database access credential.
+As the database is MySQL in this project, we need to import the datasets from the MySQL database to PowerBi by providing the Database access credential.
 ## Credit card Customer Report
 ![Customer Report](https://github.com/user-attachments/assets/7195e665-805f-4390-917c-0bb9f76c054d)
 
