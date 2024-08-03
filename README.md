@@ -31,12 +31,10 @@ Develop a comprehensive weekly dashboard for credit card operations that deliver
 
 As the database is MySQL in this project, we need to import the datasets from the MySQL database to PowerBi by providing the Database access credential.
 ## Credit Card Customer Report
-![Customer Report](https://github.com/user-attachments/assets/7195e665-805f-4390-917c-0bb9f76c054d)
+![Credit_Card_Customer_Report](https://github.com/user-attachments/assets/a2fcc8d2-de42-4567-9130-ecb1f4d67058)
 
 ## Credit Card Transaction Report
-![Transaction Report](https://github.com/user-attachments/assets/fe1c9cb4-4119-45c3-998b-574f469749e5)
-
-
+![Credit_Card_Transaction_Report](https://github.com/user-attachments/assets/10d55ee5-5b5f-4934-830c-a81e3fb89de5)
 
 ## Project Details
 
