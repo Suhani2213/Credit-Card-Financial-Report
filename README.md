@@ -51,7 +51,7 @@ As the database is MySQL in this project, we need to import the datasets from th
     - Integrated various visual elements like charts, graphs, and filters to facilitate in-depth data exploration.
 ## Insights
 
-***WoW change:***
+***Week over Week change:***
 -  Revenue increased by 28.8%,
 -  Total Transaction Amt & Count increased by 35.0% & 12.8%
 -  Customer count increased by 12.8%
